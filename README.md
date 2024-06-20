@@ -1,8 +1,17 @@
-# React + Vite
+##Damac Website Project 2024
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the landing page of the Damac website 2024. 
+The project is created using React through Vite.
 
-Currently, two official plugins are available:
+##Command to create Project 
+npm create vite@latest <project_name>.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Libraries the project holds.
+
+#Taildwindcss - An css framework that contains utility classes that provides pre-defined css script.
+#Animate.css - another css module file that contains animated classes.
+#react-Intersection-Observer - Libraries/Module that is used to provide animation animation on triggers like onScroll, onView etc.
+
+##Command to run the project
+-- npm install
+-- npm run dev
