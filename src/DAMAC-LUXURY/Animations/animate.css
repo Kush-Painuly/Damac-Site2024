@@ -1,0 +1,27 @@
+.slideL{
+    animation: slideLeft 1s linear;
+}
+
+@Keyframes
+ slideLeft {
+    0%{
+        transform: translateX(-100%);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
+
+.slideR{
+    animation: slideRight 1s linear;
+}
+
+@Keyframes
+ slideRight {
+    0%{
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
